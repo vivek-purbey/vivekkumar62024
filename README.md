@@ -4,9 +4,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently not working
 - 🌱 I’m currently learning backend web technology
-- 👯 I’m looking to collaborate on LinkedIn
+- 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about frontend web technology
 - 📫 How to reach me: https://www.linkedin.com/in/vivek-kumar-purbey-653b2a205/
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am playing BADMINTON everyday and go to the GYM very often
