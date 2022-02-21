@@ -1,9 +1,13 @@
+<p align="left"> <img src="https://miro.medium.com/max/840/1*El7jNYMuqzEoE-1ninaRSA.jpeg" width="50%" height="250">
+
+<img align="right" alt="Coding" width="45%" height="250" src="https://static.javatpoint.com/blog/images/how-to-learn-competitive-programming.png">
+
 ### Hi, I'm Vivek Kumar Purbey! 👋
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently not working
-- 🌱 I’m currently learning backend web technology
+- 🔭 I’m currently learning
+- 🌱 I’m currently doing Coding
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with internship opportunity
 - 💬 Ask me about frontend web technology
