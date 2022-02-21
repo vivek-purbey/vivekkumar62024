@@ -10,5 +10,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linkedin.com/in/vivek-kumar-purbey-653b2a205/
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am playing BADMINTON everyday and go to the GYM very often
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vivekkumar62024&theme=onedark)
+ 
+ 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vivekkumar62024&theme=cobalt)
