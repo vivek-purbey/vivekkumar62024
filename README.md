@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am playing BADMINTON everyday and go to the GYM very often
 - 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vivekkumar62024&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vivekkumar62024&theme=merko)
