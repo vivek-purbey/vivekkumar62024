@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://twitter.com/@vivek62024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vivek62024" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vivekkumarpurbey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivekkumarpurbey" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vivekkumar62024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vivekkumar62024" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vivekkumar62024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vivek62024" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/vivek62024" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vivek62024" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vivek62024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vivek62024" height="30" width="40" /></a>
 </p>
